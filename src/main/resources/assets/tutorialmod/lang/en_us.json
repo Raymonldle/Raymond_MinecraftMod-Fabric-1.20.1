@@ -1,6 +1,32 @@
-  {
+{
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "Raw Ruby",
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.tomato": "Tomato",
+  "item.tutorialmod.strawberry": "Strawberry",
+  "item.tutorialmod.coal_briquette": "Coal Briquette",
 
-  "itemgroup.ruby": "Ruby Tutorial Mod"
+
+  "item.tutorialmod.metal_detector": "Metal Detector",
+      "tooltip.tutorialmod.metal_detector.tooltip": "Finds Valuables Underground",
+  "item.tutorialmod.sound_block": "Sound Block",
+
+  "block.tutorialmod.ruby_block": "Block of Ruby",
+  "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.tutorialmod.netherack_ruby_ore": "Netherack Ruby Ore",
+  "block.tutorialmod.end_stone_ruby_ore": "End Stone Ruby ore",
+
+  "block.tutorialmod.sapphire_ore": "Sapphire Ore",
+  "block.tutorialmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.tutorialmod.netherack_sapphire_ore": "Netherack Sapphire Ore",
+  "block.tutorialmod.end_stone_sapphire_ore": "End Stone Sapphire ore",
+
+
+  "itemgroup.ruby": "Raymond's mod"
 }

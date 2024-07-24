@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    " X",
+    " I",
+    " #"
+  ],
+  "result": {
+    "item": "tutorialmod:metal_detector"
+  },
+  "show_notification": true
+}
